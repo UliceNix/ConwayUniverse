@@ -8,9 +8,9 @@
 
 #include <stdio.h>
 #include <iostream>
-#include "Plate.h"
 #include <assert.h>
 #include <string>
+#include "Plate.h"
 
 int max_width = 0; // Global variables are used to keep record of 
 
