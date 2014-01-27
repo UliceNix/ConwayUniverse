@@ -17,7 +17,7 @@ LICENSE
 
 =======
 
-       Copyright  ©  2012 Alice Wu, Free Software Foundation, Inc., Marky Mark  License GPLv3+: GNU
+       Copyright  ©  2013 Alice Wu, Free Software Foundation, Inc., Marky Mark  License GPLv3+: GNU
        GPL version 3 or later <http://gnu.org/licenses/gpl.html>.
        This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published 
        by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
