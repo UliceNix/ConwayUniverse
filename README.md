@@ -28,5 +28,6 @@ LICENSE
 Compile
 =======
 
-      Please compile by "g++ -c conway.c Plate.h Plate.c" and play with a.out + input file name
+      Please compile by "g++ -c conway.c Plate.h Plate.c" and play with a.out + input file name + the number of generation (optional)
+      Enter "q" for quit. Press "Return" for auto-generation of the next generation.
       See more information about the conway universe or the template of input file:http://en.wikipedia.org/wiki/Conway's_Game_of_Life
