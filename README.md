@@ -28,5 +28,5 @@ LICENSE
 Compile
 =======
 
-      Please compile by "g++ -c conway.c Plate.h Plate.c" and play with a.out
-      See more information about the conway universe: http://en.wikipedia.org/wiki/Conway's_Game_of_Life
+      Please compile by "g++ -c conway.c Plate.h Plate.c" and play with a.out + input file name
+      See more information about the conway universe or the template of input file:http://en.wikipedia.org/wiki/Conway's_Game_of_Life
